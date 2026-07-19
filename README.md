@@ -2,6 +2,13 @@
 
 This project generates and plots the first 1,000 prime numbers using Python and Matplotlib. It is managed with uv, so you get a local virtual environment, reproducible dependencies, and a simple command-line workflow.
 
+## What is a prime number?
+
+A prime number is a whole number greater than 1 that has exactly two positive divisors: 1 and itself.  
+For example, 2, 3, 5, and 7 are prime numbers, while 4 is not because it can also be divided by 2.
+
+Prime numbers are important in mathematics because they are the building blocks of all whole numbers (every integer greater than 1 can be written as a product of primes). They are also widely used in computer science and cryptography, where properties of prime numbers help secure digital communication.
+
 
 ## What it does
 
